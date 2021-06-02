@@ -1,0 +1,60 @@
+.navbar-inverse
+{
+    font-size:20px;
+}
+.container
+{
+font-size:30px;
+
+}
+.iframe
+{
+    width: 50%;
+    height: 100px;
+}
+iframe 
+{
+    width="1000" height="500";
+}
+.contact_1 h1
+{
+font-size:20px;
+}
+.contact_1 h2
+{
+font-size:20px;
+} 
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 img{
+    height: 150px;
+    width: 150px;
+border-color: dodgerblue;
+    display: inline;
+}
+body{
+    text-align: center;
+}
+marquee{
+    font-size: 55px;
+    font-family:monospace;
+}
+#achievementsID{
+    padding-bottom:10px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color:#ff7700;
+}
